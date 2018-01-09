@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+body { background-image:url(images/IMG_0228.JPG); background-attachment:fixed; background-repeat:no-repeat; margin:0 auto;}
+#rcont{ width:1000px; height:500px; background-color:#CCC; padding-top:100; background-color:rgba(173,168,168,0.8); border-radius:15px 40px 15px 40px; padding-top:50;  margin-left:150;}
+
+h2{ font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif; text-align:center; color:#333333;}
+
+#main{ width:100%; height:auto;}
+#cont{ width:1050; height:1048px; background-color:rgba(173,168,168,0.6); margin-left:150;}
+p{ font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif; font-size:18px; color:#000; text-align:justify; text-indent:20; }
+#pta{ text-align:center; font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif; font-size:18px; color:#000;}
+
+#wow{  width:1010; height:400; margin-left:150; margin:0 auto;}
+#cont {	width:1060; height:auto; margin-left:150; margin:0 auto;}
+#content{ background-color:rgba(173,168,168,0.8); padding-top:50;}
+legend{ font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif; color:#333; font-size:24px;}
+fieldset{ border-color:gold; border-radius:10px 10px 10px 10px; width:330; height:470;}
+
+.img{ width:250; height:250; padding-left:25px;}
+
+h1 { font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif; text-align:center; color:#FFF;}
+#top{ padding-left:1000px;}
+#contact{ width:100%; height:450; background-color:rgba(36,100,231,0.8);}
+#cs{ width:500px; height:400px; background-color:rgba(155,133,133,0.8); border-radius:25px 25px 25px 25px;}
+#feed{ width:500px; height:400px; background-color:rgba(155,133,133,0.8); border-radius:25px 25px 25px 25px;}

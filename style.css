@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+body { background-image:url(images/IMG_0228.JPG); background-attachment:fixed; background-repeat:no-repeat; margin:0 auto;}
+#rcont{ width:1000px; height:500px; background-color:#CCC; padding-top:100; background-color:rgba(173,168,168,0.8); border-radius:15px 40px 15px 40px; padding-top:50;  margin-left:150;}
+
+h2{ font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif; text-align:center; color:#333333;}
+
+#main{ width:100%; height:1048px;}
+#cont{ width:1050; height:1048px; background-color:rgba(173,168,168,0.6); margin-left:150;}
+p{ font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif; font-size:20px; color:#000; text-align:justify; }
